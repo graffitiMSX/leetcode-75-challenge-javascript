@@ -18,16 +18,16 @@ Constraints:
 
 // Method 1: Greedy approach with two variables - O(n) time, O(1) space
 var increasingTriplet = function(nums) {
-    let first = Infinity;  // smallest number seen so far
-    let second = Infinity; // second smallest number seen so far
+    let first = Infinity;
+    let second = Infinity;
     
     for (let num of nums) {
         if (num <= first) {
-            first = num;  // update smallest
+            first = num;
         } else if (num <= second) {
-            second = num; // update second smallest
+            second = num;
         } else {
-            return true;  // found a number greater than both first and second
+            return true;
         }
     }
     
