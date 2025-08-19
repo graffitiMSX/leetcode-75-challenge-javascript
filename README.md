@@ -22,15 +22,15 @@ The LeetCode 75 Study Plan is a curated collection of 75 essential coding proble
 - **`02-Two-Pointers/`** - Two-pointer technique problems
     - Move Zeroes ✅
     - Is Subsequence ✅
-    - Container With Most Water ❌
-    - Max Number of K-Sum Pairs ❌
+    - Container With Most Water ✅
+    - Max Number of K-Sum Pairs ✅
 
 ## Progress
 
 I'm actively working through the study plan and adding solutions as I complete each challenge. Each solution file is named according to the problem number and title for easy reference.
 
-**Current Progress: 11/75 problems completed**
-`[██████------------------------------] 15%`
+**Current Progress: 13/75 problems completed**
+`[███████-----------------------------] 17%`
 
 ## Getting Started
 
