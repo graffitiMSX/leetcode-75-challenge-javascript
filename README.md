@@ -25,12 +25,18 @@ The LeetCode 75 Study Plan is a curated collection of 75 essential coding proble
     - Container With Most Water ✅
     - Max Number of K-Sum Pairs ✅
 
+- **`03-Sliding-Window/`** - Sliding window algorithm problems
+    - Maximum Average Subarray ✅
+    - Maximum # of Vowels in Substring ✅
+    - Max Consecutive Ones III ✅
+    - Longest Subarray of 1's ✅
+
 ## Progress
 
 I'm actively working through the study plan and adding solutions as I complete each challenge. Each solution file is named according to the problem number and title for easy reference.
 
-**Current Progress: 13/75 problems completed**
-`[███████-----------------------------] 17%`
+**Current Progress: 17/75 problems completed**
+`[█████████-------------------------] 23%`
 
 ## Getting Started
 
