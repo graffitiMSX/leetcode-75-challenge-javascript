@@ -35,12 +35,18 @@ The LeetCode 75 Study Plan is a curated collection of 75 essential coding proble
     - Find Highest Altitude ✅
     - Find Pivot Index ✅
 
+- **`05-Hash-Maps/`** - Hash map and frequency counting
+ - Find the Difference of Two Arrays ✅
+ - Unique Number of Occurrences ✅
+ - Determine if Two Strings Are Close ❌
+ - Equal Row and Column Pairs ❌
+
 ## Progress
 
 I'm actively working through the study plan and adding solutions as I complete each challenge. Each solution file is named according to the problem number and title for easy reference.
 
-**Current Progress: 19/75 problems completed**
-`[████████████--------------------------------------] 25%`
+**Current Progress: 21/75 problems completed**
+`[██████████████------------------------------------] 28%`
 
 ## Getting Started
 
