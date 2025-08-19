@@ -31,12 +31,16 @@ The LeetCode 75 Study Plan is a curated collection of 75 essential coding proble
     - Max Consecutive Ones III ✅
     - Longest Subarray of 1's ✅
 
+- **`04-Prefix-Sum/`** - Prefix sum and cumulative operations
+    - Find Highest Altitude ✅
+    - Find Pivot Index ✅
+
 ## Progress
 
 I'm actively working through the study plan and adding solutions as I complete each challenge. Each solution file is named according to the problem number and title for easy reference.
 
-**Current Progress: 17/75 problems completed**
-`[█████████-------------------------] 23%`
+**Current Progress: 19/75 problems completed**
+`[████████████--------------------------------------] 25%`
 
 ## Getting Started
 
