@@ -38,15 +38,15 @@ The LeetCode 75 Study Plan is a curated collection of 75 essential coding proble
 - **`05-Hash-Maps/`** - Hash map and frequency counting
  - Find the Difference of Two Arrays ✅
  - Unique Number of Occurrences ✅
- - Determine if Two Strings Are Close ❌
- - Equal Row and Column Pairs ❌
+ - Determine if Two Strings Are Close ✅
+ - Equal Row and Column Pairs ✅
 
 ## Progress
 
 I'm actively working through the study plan and adding solutions as I complete each challenge. Each solution file is named according to the problem number and title for easy reference.
 
-**Current Progress: 21/75 problems completed**
-`[██████████████------------------------------------] 28%`
+**Current Progress: 23/75 problems completed**
+`[████████████████----------------------------------] 31%`
 
 ## Getting Started
 
